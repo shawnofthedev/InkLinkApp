@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dS0ctgzpmvY=",
+  "dgSpecHash": "4LN2VbNFPvI=",
   "success": true,
-  "projectFilePath": "C:\\source\\InkLinkApp\\InkLinkApp.Api\\InkLink.Server.csproj",
+  "projectFilePath": "C:\\source\\InkLinkApp\\InkLinkApp.Api\\InkLink.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\svota\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-preview.6.25358.103\\microsoft.aspnetcore.openapi.10.0.0-preview.6.25358.103.nupkg.sha512",
     "C:\\Users\\svota\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",

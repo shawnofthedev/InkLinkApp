@@ -280,9 +280,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\InkLinkApp\\InkLinkApp.Api\\InkLink.Server.csproj",
-      "projectName": "InkLink.Server",
-      "projectPath": "C:\\source\\InkLinkApp\\InkLinkApp.Api\\InkLink.Server.csproj",
+      "projectUniqueName": "C:\\source\\InkLinkApp\\InkLinkApp.Api\\InkLink.Api.csproj",
+      "projectName": "InkLink.Api",
+      "projectPath": "C:\\source\\InkLinkApp\\InkLinkApp.Api\\InkLink.Api.csproj",
       "packagesPath": "C:\\Users\\svota\\.nuget\\packages\\",
       "outputPath": "C:\\source\\InkLinkApp\\InkLinkApp.Api\\obj\\",
       "projectStyle": "PackageReference",

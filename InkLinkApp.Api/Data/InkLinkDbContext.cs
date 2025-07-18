@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using InkLink.Server.Models;
+using InkLink.Api.Models;
 
-namespace InkLink.Server.Data
+namespace InkLink.Api.Data
 {
     public class InkLinkDbContext : DbContext
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace InkLink.Server.Models;
+namespace InkLink.Api.Models;
 
 public class StoryRoom
 {

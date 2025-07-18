@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using InkLink.Shared.Dtos;
-using InkLink.Server.Data;
-using InkLink.Server.Models;
+using InkLink.Api.Data;
+using InkLink.Api.Models;
 
-namespace InkLink.Server.Controllers
+namespace InkLink.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
